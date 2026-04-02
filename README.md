@@ -58,3 +58,7 @@ instagram-api-tests/
 git clone <your-repo-link>
 cd instagram-api-tests
 ```
+
+## 📸 Test Report Preview
+
+![Pytest HTML Report](screenshots/report.png)
