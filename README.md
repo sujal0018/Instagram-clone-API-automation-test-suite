@@ -58,3 +58,7 @@ instagram-api-tests/
 git clone <your-repo-link>
 cd instagram-api-tests
 ```
+
+<img width="1919" height="873" alt="report" src="https://github.com/user-attachments/assets/f0fe5ba1-19a5-4546-88cb-f763ccd5d702" />
+
+
